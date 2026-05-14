@@ -1,5 +1,6 @@
 Rencana jualan
 - Membeli susu
-- membeli buku tulis
+  ^ susu UHT
+  ^ susu kental manis
 - membeli snack
 - membeli minuman
