@@ -2,6 +2,7 @@ Rencana jualan
 - Membeli susu
 - membeli buku tulis
 - membeli pulpen
+- membeli penghapus
 - membeli sabun
 - membeli snack
 - membeli minuman
